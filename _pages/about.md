@@ -29,5 +29,5 @@ Insurance; Risk Sharing; Game Theory; Variable Annuities
 
 CV
 ------
-
+[My Curriculum Vitae](https:github.com/benxuanshi/benxuan_shi/files/master/_pages/about.md)
 
