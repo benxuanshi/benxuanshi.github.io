@@ -27,4 +27,7 @@ Research Interests
 ------
 Insurance; Risk Sharing; Game Theory; Variable Annuities
 
+CV
+------
+[My Curriculum Vitae](https://sites.google.com/view/binli/home)
 
