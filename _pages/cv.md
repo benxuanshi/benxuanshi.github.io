@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My Curriculum Vitae]()
+[My Curriculum Vitae](files/CVBenxuanShi.pdf)
 
 Education
 ======
