@@ -27,7 +27,4 @@ Research Interests
 ------
 Insurance; Risk Sharing; Game Theory; Variable Annuities
 
-CV
-------
-[My Curriculum Vitae](https://raw.github.com/benxuanshi/benxuan_shi/blob/master/files/CVBenxuanShi.pdf)
 
