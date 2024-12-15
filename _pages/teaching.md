@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+
+
 ACTSC 232 Life Contingencies 1 (Winter 2024)
 
 ACTSC 431 Casualty & Hlth Insur Math 2 (Fall 2023)
