@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Teaching Assistance Experience"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
 
-
+Teaching Assistance Experience
+------
 
 * ACTSC 232 Life Contingencies 1 (Winter 2024)
 * ACTSC 431 Casualty & Hlth Insur Math 2 (Fall 2023)
