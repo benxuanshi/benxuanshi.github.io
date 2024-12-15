@@ -16,8 +16,11 @@ I am a Ph.D. candidate in Actuarial Science at the University of Waterloo, super
 
 
 
-Create content & metadata
+Research Interests
 ------
 
+
+CV
+------
 **Markdown generator**
 
