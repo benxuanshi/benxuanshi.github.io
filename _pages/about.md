@@ -25,6 +25,6 @@ BS in Statistics, 2017, Chongqing University.
 
 Research Interests
 ------
-Insurance; Risk Sharing; Game Theory; Variable Annuities
+Insurance; Risk Sharing; Game Theory; Variable Annuities;
 
 
