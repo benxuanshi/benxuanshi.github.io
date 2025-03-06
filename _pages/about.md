@@ -16,7 +16,7 @@ I am a Ph.D. candidate in Actuarial Science at the University of Waterloo, super
 
 Education
 ------
-MS in Statistics, 2020, Chongqing University. Supervisor: [Zhimin Zhang](https://faculty.cqu.edu.cn/ZhiminZhang/en/jsxx/389203/jsxx/jsxx.htm).
+MS in Statistics, 2020, Chongqing University. Supervisor: Prof. [Zhimin Zhang](https://faculty.cqu.edu.cn/ZhiminZhang/en/jsxx/389203/jsxx/jsxx.htm).
 
 BS in Statistics, 2017, Chongqing University.
 
